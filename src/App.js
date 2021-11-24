@@ -61,7 +61,7 @@ function App() {
       {/* Transform-> array of strings to array of JSX */}
       
       {/* {names.map(name=><Welcome name={name} />)} */}
-      <h1>First React app</h1>
+      <h1>First React App</h1>
       {users.map(({name,pic})=> <Msg name={name} pic={pic}/>)}
 
       <hr/>
