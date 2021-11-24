@@ -2,7 +2,33 @@
   text-align: center;
 }
 
-.App-logo {
+.profile-pic {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.poster {
+  height: 300px;
+  /* width: 300px; */
+  box-shadow: 2px 2px 10px 2px grey;
+}
+p {
+  width: 1000px;
+  text-align: justify;
+  margin: auto;
+}
+.movie-heading {
+  color: indigo;
+}
+hr {
+  margin: 30px auto;
+  width: 80%;
+  /* background-color: blue; */
+  color: aqua;
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
