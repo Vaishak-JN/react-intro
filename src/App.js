@@ -12,10 +12,6 @@ function App() {
     {
       name:"vignesh",
       pic:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZTtK6pHqjvMrFvkwyTP_WgXYLrSAdna_8w&usqp=CAU"
-    },
-    {
-      name:"malini",
-      pic:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Circle-icons-profile.svg/1200px-Circle-icons-profile.svg.png"
     }
   ];
 
